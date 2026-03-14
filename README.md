@@ -59,7 +59,11 @@ Long-press (600ms) on mobile opens the note editor, matching the right-click beh
 ## Project structure
 
 ```
-index.html        # Entire app — single file, no build step
+index.html
+app.js
+firebase.ja
+.evn
+style.css
 README.md
 ```
 
@@ -71,7 +75,7 @@ No installation required.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/yoru-tracker.git
+git clone https://github.com/aniway89/Personal-Tracker.git
 
 # Open in browser
 open index.html
