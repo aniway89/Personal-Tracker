@@ -109,4 +109,4 @@ The app itself became one of the portfolio projects.
 
 17-year-old developer from India. Building software, learning Japanese, aiming for Japan.
 
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@aniway89](https://github.com/aniway89)
